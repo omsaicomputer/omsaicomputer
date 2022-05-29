@@ -1,5 +1,5 @@
 $ dig WWW.omsaicomputer.COM +nostats +nocomments +nocmd
-    > ;WWW.omsaicomputer.COM.                     IN      A
+    > WWW.omsaicomputer.COM. 3600  IN  A 185.199.108.153
     > WWW.omsaicomputer.COM.              3592    IN      CNAME   omsaicomputer.github.io.
     > omsaicomputer.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
     >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
